@@ -27,3 +27,7 @@ For example, using the string above, we know that square `U1` has the colour cor
 
 We are using the **Kociemba Algorithm**, in particular [this](https://pypi.org/project/kociemba/) Python implementation.
 For more details on Kociemba, see [this](https://www.jaapsch.net/puzzles/compcube.htm#:~:text=larger%20pruning%20tables.-,Kociemba%27s%20Algorithm,-All%20the%20discussion).
+
+## Cube Pictures
+
+https://www.kaggle.com/sebastianponce/rubiks-cubes-faces?select=WhatsApp+Image+2021-02-16+at+7.56.49+PM+%284%29.jpeg
