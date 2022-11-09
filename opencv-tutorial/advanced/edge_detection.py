@@ -29,3 +29,4 @@ cv.imshow("Sobel Stonks", meme_sobel)
 
 
 cv.waitKey(0)
+# Bavesh Here :)
